@@ -1,0 +1,49 @@
+{
+"profile":{
+"name":"bharath",
+"label":"Full-stack developer",
+"email":"talasilabc369@gmail.com"
+},
+"career":{
+  "info":"strange person"
+},
+"education":[
+  {
+    "degree":"B.tech",
+"institute":"pvpsit",
+"data":["2015-19","92%"]
+},
+{
+  "degree":"inter(MPC)",
+  "institute":"rk",
+  "data":["2013-15","95%"]
+
+},
+{
+  "degree":"10th",
+  "institute":"NHS",
+  "data":["2002-14","92%"]
+
+}
+],
+"skills":[
+  {
+    "title":"language",
+    "content":["c","eng","dingdong"]
+  },
+{
+    "title":"Database",
+    "content":["MongoDB","my sql","sql"]
+  },
+  {
+      "title":"WT",
+      "content":["css","JavaScript","html","PHP"]
+    },
+    {
+        "title":"Frame Works",
+        "content":["Django","code Igniterss"]
+      }
+
+
+]
+}
